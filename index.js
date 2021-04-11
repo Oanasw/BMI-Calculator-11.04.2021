@@ -20,7 +20,7 @@ function bmiCalculator (weight, height) {
 
   }
 
-  if (bmi > 18.5 && bmi < 70) {
+  if (bmi > 18.5 && bmi < 24.9) {
 
     document.querySelector("p").innerHTML = bmi2;
 
