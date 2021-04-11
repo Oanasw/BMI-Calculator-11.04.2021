@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+}
+
+.card {
+  width: 30rem;
+  text-align: center;
+}
+
+.demo {
+  font-weight: bold;
+  color: red;
+  font-size: 2rem;
+}
