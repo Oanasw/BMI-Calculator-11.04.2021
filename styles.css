@@ -13,9 +13,9 @@ body {
   font-size: 2rem;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 510px) {
   .card {
     width: 400px;
-    height: 510px;
+    height: 505px;
   }
 }
